@@ -16,7 +16,7 @@
     if (status === "dragon") return "/public/dragon.svg";
     if (status === "dark") return "/public/dark.svg";
     if (status === "steel") return "/public/steel.svg";
-    if (status === "flying") return "/public/flying.svg";
+    if (status === "flying") return "public/flying.svg";
     return null;
   };
 
