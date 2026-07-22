@@ -36,7 +36,7 @@ const Navbar = () => {
           {/* LEFT: Logo Section */}
           <div className="flex-shrink-0 flex items-center gap-2 cursor-pointer">
             <div className="p-1.5 rounded-lg">
-              <img src='/pokemon-png-21242.png' alt='Pokemon Logo' className="h-12 w-full" />
+              <img src='./pokemon-png-21242.png' alt='Pokemon Logo' className="h-12 w-full" />
             </div>
           </div>
 
