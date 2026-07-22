@@ -2,7 +2,7 @@ import { useEffect, useState } from "react"
 import PokemonCard from "../Components/PokemonCard"
 import axios from "axios";
 import PokeBanner from "../Components/PokeBanner";
-import PokemonModal from "../Components/PokemonModal";
+import PokemonModal from "../Components/Pokemonmodal";
 import { useSearch } from "../Context/SearchContext";
 
 function PokemonList() {
