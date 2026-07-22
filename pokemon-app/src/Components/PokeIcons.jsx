@@ -1,5 +1,5 @@
   const PokeIcons = (status) => {
-    if (status === "grass") return "/public/grass.svg";
+    if (status === "grass") return "./public/grass.svg";
     if (status === "fire") return "/public/fire.svg";
     if (status === "water") return "/public/water.svg";
     if (status === "bug") return "/public/bug.svg";
